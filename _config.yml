@@ -325,3 +325,12 @@ defaults:
       comments: # true
       share: true
       related: true
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
